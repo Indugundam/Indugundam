@@ -7,7 +7,7 @@ Hello! I'm **Indu Gundam**, an undergraduate student pursuing **Information Tech
 
 ## 🔧 Technologies & Tools  
 
-💻 **Languages**: Java, Python, SQL  
+💻 **Languages**: Java, Python 
 ☁️ **Cloud**: AWS, Azure  
 🛠 **Tools**: Git, GitHub, Postman, IntelliJ, VS Code  
 🌐 **Web**: HTML, CSS, JavaScript  
