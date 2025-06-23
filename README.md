@@ -1,7 +1,7 @@
 # **Hey there! 👋 I'm Indu Gundam**  
 
 🎓 **Information Technology Student** | 📍 **Gayatri Vidya Parishad College of Engineering**  
-📊 **9.68 CGPA** | 💡 **Passionate about Java, Cloud, and Web Development**  
+📊 **9.56 CGPA** | 💡 **Passionate about Java, Cloud, and Web Development**  
 
 ---
 
