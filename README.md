@@ -6,7 +6,8 @@
 ---
 
 ## 🚀 **About Me**  
-🔹 Love **building scalable applications**, **solving complex problems**, and **exploring cloud technologies** ☁️  
+🔹 Working as a **Software Developer Intern** at Inncircles, Hyderabad
+🔹 Gained practical knowledge in **MEAN stack** and **Flutter Mobile Development** and currently working as a **Mobile Application Developer** 
 🔹 Strong foundation in **Java, Python, SQL** & experience with **AWS, Azure, and Web Development** 🔧  
 🔹 Active **open-source contributor** and **competitive coder** on **LeetCode** 🚀  
 
@@ -17,7 +18,7 @@
 🖥️ **Languages**: `Java` | `Python`  
 ☁️ **Cloud**: `AWS` | `Azure`  
 🛠 **Tools**: `Git` | `GitHub` | `Postman` | `IntelliJ` | `VS Code`  
-🌐 **Web**: `HTML` | `CSS` | `JavaScript`  
+🌐 **Web**:  `Flutter` | `MEAN stack`| `React` |  `Node JS` | `HTML` | `CSS` | `JavaScript`
 🗄 **Databases**: `MySQL` | `Oracle` | `MongoDB`  
 
 ---
